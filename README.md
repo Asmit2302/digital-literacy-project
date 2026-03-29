@@ -1,7 +1,7 @@
 Digital Ambassador Project Portfolio
 Student Information
 
-Name: Asmit Srivastava 
+Name: Asmit Srivastava        
 Branch: B.Tech CSE (Cybersecurity)
 Year: 1st Year 
 Registration Number: 25BCY10181
