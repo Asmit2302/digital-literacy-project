@@ -60,6 +60,8 @@ Conclusion
 The Digital Ambassador Project helped me develop essential digital skills and awareness. These skills will help me maintain professionalism online, avoid cyber threats, and guide others toward responsible digital practices.
 
 Author
-Asmit Srivastava B.Tech CSE (Cybersecurity) – 1st Year Digital Ambassador Project
+Asmit Srivastava 
+B.Tech CSE (Cybersecurity) – 1st Year 
+Digital Ambassador Project
 
 End of README
